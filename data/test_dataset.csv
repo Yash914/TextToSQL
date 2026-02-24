@@ -1,0 +1,16 @@
+question,sql
+List names of students older than 20 years.,SELECT name FROM students WHERE age > 20
+Show students above 18.,SELECT * FROM students WHERE age > 18
+Which students are older than 19?,SELECT * FROM students WHERE age > 19
+Find students younger than 22 years.,SELECT * FROM students WHERE age < 22
+List names of students younger than 21.,SELECT name FROM students WHERE age < 21
+Show students with age equal to 20.,SELECT * FROM students WHERE age = 20
+Find students whose age is 19.,SELECT * FROM students WHERE age = 19
+Count students older than 18.,SELECT COUNT(*) FROM students WHERE age > 18
+How many students are older than 20?,SELECT COUNT(*) FROM students WHERE age > 20
+What is the average age?,SELECT AVG(age) FROM students
+Calculate average age of students.,SELECT AVG(age) FROM students
+Show all student names.,SELECT name FROM students
+Display names of students.,SELECT name FROM students
+Show all students.,SELECT * FROM students
+List all students.,SELECT * FROM students

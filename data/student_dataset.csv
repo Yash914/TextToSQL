@@ -1,0 +1,591 @@
+question,sql
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 18.,SELECT * FROM student WHERE age > 18
+Show students younger than 18.,SELECT * FROM student WHERE age < 18
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 20.,SELECT * FROM student WHERE age > 20
+Show students younger than 20.,SELECT * FROM student WHERE age < 20
+List students older than 18.,SELECT * FROM student WHERE age > 18
+Show students younger than 18.,SELECT * FROM student WHERE age < 18
+List students older than 24.,SELECT * FROM student WHERE age > 24
+Show students younger than 24.,SELECT * FROM student WHERE age < 24
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 24.,SELECT * FROM student WHERE age > 24
+Show students younger than 24.,SELECT * FROM student WHERE age < 24
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 18.,SELECT * FROM student WHERE age > 18
+Show students younger than 18.,SELECT * FROM student WHERE age < 18
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 27.,SELECT * FROM student WHERE age > 27
+Show students younger than 27.,SELECT * FROM student WHERE age < 27
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 30.,SELECT * FROM student WHERE age > 30
+Show students younger than 30.,SELECT * FROM student WHERE age < 30
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 21.,SELECT * FROM student WHERE age > 21
+Show students younger than 21.,SELECT * FROM student WHERE age < 21
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 18.,SELECT * FROM student WHERE age > 18
+Show students younger than 18.,SELECT * FROM student WHERE age < 18
+List students older than 20.,SELECT * FROM student WHERE age > 20
+Show students younger than 20.,SELECT * FROM student WHERE age < 20
+List students older than 26.,SELECT * FROM student WHERE age > 26
+Show students younger than 26.,SELECT * FROM student WHERE age < 26
+List students older than 30.,SELECT * FROM student WHERE age > 30
+Show students younger than 30.,SELECT * FROM student WHERE age < 30
+List students older than 24.,SELECT * FROM student WHERE age > 24
+Show students younger than 24.,SELECT * FROM student WHERE age < 24
+List students older than 26.,SELECT * FROM student WHERE age > 26
+Show students younger than 26.,SELECT * FROM student WHERE age < 26
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 27.,SELECT * FROM student WHERE age > 27
+Show students younger than 27.,SELECT * FROM student WHERE age < 27
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 27.,SELECT * FROM student WHERE age > 27
+Show students younger than 27.,SELECT * FROM student WHERE age < 27
+List students older than 30.,SELECT * FROM student WHERE age > 30
+Show students younger than 30.,SELECT * FROM student WHERE age < 30
+List students older than 29.,SELECT * FROM student WHERE age > 29
+Show students younger than 29.,SELECT * FROM student WHERE age < 29
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 20.,SELECT * FROM student WHERE age > 20
+Show students younger than 20.,SELECT * FROM student WHERE age < 20
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 29.,SELECT * FROM student WHERE age > 29
+Show students younger than 29.,SELECT * FROM student WHERE age < 29
+List students older than 22.,SELECT * FROM student WHERE age > 22
+Show students younger than 22.,SELECT * FROM student WHERE age < 22
+List students older than 20.,SELECT * FROM student WHERE age > 20
+Show students younger than 20.,SELECT * FROM student WHERE age < 20
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 29.,SELECT * FROM student WHERE age > 29
+Show students younger than 29.,SELECT * FROM student WHERE age < 29
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 19.,SELECT * FROM student WHERE age > 19
+Show students younger than 19.,SELECT * FROM student WHERE age < 19
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 23.,SELECT * FROM student WHERE age > 23
+Show students younger than 23.,SELECT * FROM student WHERE age < 23
+List students older than 28.,SELECT * FROM student WHERE age > 28
+Show students younger than 28.,SELECT * FROM student WHERE age < 28
+List students older than 25.,SELECT * FROM student WHERE age > 25
+Show students younger than 25.,SELECT * FROM student WHERE age < 25
+List students older than 20.,SELECT * FROM student WHERE age > 20
+Show students younger than 20.,SELECT * FROM student WHERE age < 20
+List students older than 21.,SELECT * FROM student WHERE age > 21
+Show students younger than 21.,SELECT * FROM student WHERE age < 21
+List students older than 27.,SELECT * FROM student WHERE age > 27
+Show students younger than 27.,SELECT * FROM student WHERE age < 27
+List students older than 21.,SELECT * FROM student WHERE age > 21
+Show students younger than 21.,SELECT * FROM student WHERE age < 21
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+What is the average marks?,SELECT AVG(marks) FROM student
+Count total students.,SELECT COUNT(*) FROM student
+Find maximum marks.,SELECT MAX(marks) FROM student
+Find minimum age.,SELECT MIN(age) FROM student
+"Insert student Sneha with roll number 422, age 20, marks 47 and department id 3.","INSERT INTO student VALUES (422, 'Sneha', 20, 47, 3)"
+"Insert student Arjun with roll number 300, age 24, marks 46 and department id 1.","INSERT INTO student VALUES (300, 'Arjun', 24, 46, 1)"
+"Insert student Sneha with roll number 163, age 20, marks 58 and department id 3.","INSERT INTO student VALUES (163, 'Sneha', 20, 58, 3)"
+"Insert student Priya with roll number 190, age 22, marks 50 and department id 2.","INSERT INTO student VALUES (190, 'Priya', 22, 50, 2)"
+"Insert student Amit with roll number 54, age 20, marks 51 and department id 4.","INSERT INTO student VALUES (54, 'Amit', 20, 51, 4)"
+"Insert student Arjun with roll number 470, age 19, marks 41 and department id 4.","INSERT INTO student VALUES (470, 'Arjun', 19, 41, 4)"
+"Insert student Priya with roll number 212, age 19, marks 74 and department id 4.","INSERT INTO student VALUES (212, 'Priya', 19, 74, 4)"
+"Insert student Vikram with roll number 411, age 25, marks 72 and department id 1.","INSERT INTO student VALUES (411, 'Vikram', 25, 72, 1)"
+"Insert student Amit with roll number 159, age 24, marks 50 and department id 1.","INSERT INTO student VALUES (159, 'Amit', 24, 50, 1)"
+"Insert student Amit with roll number 144, age 22, marks 72 and department id 4.","INSERT INTO student VALUES (144, 'Amit', 22, 72, 4)"
+"Insert student Anjali with roll number 462, age 18, marks 64 and department id 2.","INSERT INTO student VALUES (462, 'Anjali', 18, 64, 2)"
+"Insert student Vikram with roll number 257, age 24, marks 64 and department id 3.","INSERT INTO student VALUES (257, 'Vikram', 24, 64, 3)"
+"Insert student Arjun with roll number 368, age 20, marks 93 and department id 4.","INSERT INTO student VALUES (368, 'Arjun', 20, 93, 4)"
+"Insert student Arjun with roll number 7, age 23, marks 61 and department id 1.","INSERT INTO student VALUES (7, 'Arjun', 23, 61, 1)"
+"Insert student Anjali with roll number 158, age 25, marks 56 and department id 3.","INSERT INTO student VALUES (158, 'Anjali', 25, 56, 3)"
+"Insert student Neha with roll number 415, age 18, marks 87 and department id 1.","INSERT INTO student VALUES (415, 'Neha', 18, 87, 1)"
+"Insert student Sneha with roll number 371, age 25, marks 57 and department id 1.","INSERT INTO student VALUES (371, 'Sneha', 25, 57, 1)"
+"Insert student Rahul with roll number 489, age 25, marks 93 and department id 4.","INSERT INTO student VALUES (489, 'Rahul', 25, 93, 4)"
+"Insert student Vikram with roll number 327, age 19, marks 64 and department id 4.","INSERT INTO student VALUES (327, 'Vikram', 19, 64, 4)"
+"Insert student Neha with roll number 230, age 19, marks 71 and department id 1.","INSERT INTO student VALUES (230, 'Neha', 19, 71, 1)"
+"Insert student Neha with roll number 385, age 19, marks 97 and department id 2.","INSERT INTO student VALUES (385, 'Neha', 19, 97, 2)"
+"Insert student Amit with roll number 317, age 24, marks 78 and department id 2.","INSERT INTO student VALUES (317, 'Amit', 24, 78, 2)"
+"Insert student Vikram with roll number 370, age 19, marks 71 and department id 1.","INSERT INTO student VALUES (370, 'Vikram', 19, 71, 1)"
+"Insert student Anjali with roll number 182, age 24, marks 83 and department id 1.","INSERT INTO student VALUES (182, 'Anjali', 24, 83, 1)"
+"Insert student Rahul with roll number 491, age 24, marks 83 and department id 3.","INSERT INTO student VALUES (491, 'Rahul', 24, 83, 3)"
+"Insert student Rahul with roll number 60, age 24, marks 48 and department id 2.","INSERT INTO student VALUES (60, 'Rahul', 24, 48, 2)"
+"Insert student Arjun with roll number 383, age 19, marks 99 and department id 2.","INSERT INTO student VALUES (383, 'Arjun', 19, 99, 2)"
+"Insert student Priya with roll number 316, age 21, marks 44 and department id 3.","INSERT INTO student VALUES (316, 'Priya', 21, 44, 3)"
+"Insert student Amit with roll number 38, age 21, marks 43 and department id 2.","INSERT INTO student VALUES (38, 'Amit', 21, 43, 2)"
+"Insert student Rahul with roll number 386, age 19, marks 88 and department id 2.","INSERT INTO student VALUES (386, 'Rahul', 19, 88, 2)"
+"Insert student Sneha with roll number 447, age 25, marks 45 and department id 2.","INSERT INTO student VALUES (447, 'Sneha', 25, 45, 2)"
+"Insert student Rahul with roll number 101, age 20, marks 67 and department id 1.","INSERT INTO student VALUES (101, 'Rahul', 20, 67, 1)"
+"Insert student Rahul with roll number 313, age 18, marks 49 and department id 3.","INSERT INTO student VALUES (313, 'Rahul', 18, 49, 3)"
+"Insert student Amit with roll number 64, age 23, marks 52 and department id 2.","INSERT INTO student VALUES (64, 'Amit', 23, 52, 2)"
+"Insert student Anjali with roll number 139, age 25, marks 93 and department id 3.","INSERT INTO student VALUES (139, 'Anjali', 25, 93, 3)"
+"Insert student Sneha with roll number 142, age 19, marks 48 and department id 1.","INSERT INTO student VALUES (142, 'Sneha', 19, 48, 1)"
+"Insert student Amit with roll number 488, age 20, marks 71 and department id 1.","INSERT INTO student VALUES (488, 'Amit', 20, 71, 1)"
+"Insert student Arjun with roll number 241, age 18, marks 41 and department id 1.","INSERT INTO student VALUES (241, 'Arjun', 18, 41, 1)"
+"Insert student Vikram with roll number 153, age 25, marks 66 and department id 4.","INSERT INTO student VALUES (153, 'Vikram', 25, 66, 4)"
+"Insert student Rahul with roll number 396, age 24, marks 51 and department id 1.","INSERT INTO student VALUES (396, 'Rahul', 24, 51, 1)"
+Update marks to 75 for student with roll number 195.,UPDATE student SET marks = 75 WHERE roll_no = 195
+Update marks to 73 for student with roll number 274.,UPDATE student SET marks = 73 WHERE roll_no = 274
+Update marks to 63 for student with roll number 384.,UPDATE student SET marks = 63 WHERE roll_no = 384
+Update marks to 52 for student with roll number 246.,UPDATE student SET marks = 52 WHERE roll_no = 246
+Update marks to 88 for student with roll number 243.,UPDATE student SET marks = 88 WHERE roll_no = 243
+Update marks to 100 for student with roll number 205.,UPDATE student SET marks = 100 WHERE roll_no = 205
+Update marks to 61 for student with roll number 268.,UPDATE student SET marks = 61 WHERE roll_no = 268
+Update marks to 85 for student with roll number 339.,UPDATE student SET marks = 85 WHERE roll_no = 339
+Update marks to 97 for student with roll number 191.,UPDATE student SET marks = 97 WHERE roll_no = 191
+Update marks to 82 for student with roll number 455.,UPDATE student SET marks = 82 WHERE roll_no = 455
+Update marks to 77 for student with roll number 104.,UPDATE student SET marks = 77 WHERE roll_no = 104
+Update marks to 76 for student with roll number 473.,UPDATE student SET marks = 76 WHERE roll_no = 473
+Update marks to 96 for student with roll number 113.,UPDATE student SET marks = 96 WHERE roll_no = 113
+Update marks to 83 for student with roll number 456.,UPDATE student SET marks = 83 WHERE roll_no = 456
+Update marks to 100 for student with roll number 382.,UPDATE student SET marks = 100 WHERE roll_no = 382
+Update marks to 74 for student with roll number 50.,UPDATE student SET marks = 74 WHERE roll_no = 50
+Update marks to 91 for student with roll number 330.,UPDATE student SET marks = 91 WHERE roll_no = 330
+Update marks to 69 for student with roll number 109.,UPDATE student SET marks = 69 WHERE roll_no = 109
+Update marks to 50 for student with roll number 114.,UPDATE student SET marks = 50 WHERE roll_no = 114
+Update marks to 72 for student with roll number 250.,UPDATE student SET marks = 72 WHERE roll_no = 250
+Update marks to 65 for student with roll number 487.,UPDATE student SET marks = 65 WHERE roll_no = 487
+Update marks to 87 for student with roll number 64.,UPDATE student SET marks = 87 WHERE roll_no = 64
+Update marks to 80 for student with roll number 81.,UPDATE student SET marks = 80 WHERE roll_no = 81
+Update marks to 62 for student with roll number 224.,UPDATE student SET marks = 62 WHERE roll_no = 224
+Update marks to 81 for student with roll number 285.,UPDATE student SET marks = 81 WHERE roll_no = 285
+Update marks to 63 for student with roll number 322.,UPDATE student SET marks = 63 WHERE roll_no = 322
+Update marks to 51 for student with roll number 273.,UPDATE student SET marks = 51 WHERE roll_no = 273
+Update marks to 66 for student with roll number 252.,UPDATE student SET marks = 66 WHERE roll_no = 252
+Update marks to 81 for student with roll number 314.,UPDATE student SET marks = 81 WHERE roll_no = 314
+Update marks to 65 for student with roll number 254.,UPDATE student SET marks = 65 WHERE roll_no = 254
+Update marks to 93 for student with roll number 424.,UPDATE student SET marks = 93 WHERE roll_no = 424
+Update marks to 57 for student with roll number 128.,UPDATE student SET marks = 57 WHERE roll_no = 128
+Update marks to 88 for student with roll number 215.,UPDATE student SET marks = 88 WHERE roll_no = 215
+Update marks to 57 for student with roll number 83.,UPDATE student SET marks = 57 WHERE roll_no = 83
+Update marks to 76 for student with roll number 324.,UPDATE student SET marks = 76 WHERE roll_no = 324
+Update marks to 100 for student with roll number 357.,UPDATE student SET marks = 100 WHERE roll_no = 357
+Update marks to 79 for student with roll number 24.,UPDATE student SET marks = 79 WHERE roll_no = 24
+Update marks to 65 for student with roll number 56.,UPDATE student SET marks = 65 WHERE roll_no = 56
+Update marks to 70 for student with roll number 116.,UPDATE student SET marks = 70 WHERE roll_no = 116
+Update marks to 59 for student with roll number 100.,UPDATE student SET marks = 59 WHERE roll_no = 100
+Delete student with roll number 347.,DELETE FROM student WHERE roll_no = 347
+Delete student with roll number 68.,DELETE FROM student WHERE roll_no = 68
+Delete student with roll number 415.,DELETE FROM student WHERE roll_no = 415
+Delete student with roll number 325.,DELETE FROM student WHERE roll_no = 325
+Delete student with roll number 409.,DELETE FROM student WHERE roll_no = 409
+Delete student with roll number 208.,DELETE FROM student WHERE roll_no = 208
+Delete student with roll number 150.,DELETE FROM student WHERE roll_no = 150
+Delete student with roll number 154.,DELETE FROM student WHERE roll_no = 154
+Delete student with roll number 172.,DELETE FROM student WHERE roll_no = 172
+Delete student with roll number 45.,DELETE FROM student WHERE roll_no = 45
+Delete student with roll number 25.,DELETE FROM student WHERE roll_no = 25
+Delete student with roll number 212.,DELETE FROM student WHERE roll_no = 212
+Delete student with roll number 113.,DELETE FROM student WHERE roll_no = 113
+Delete student with roll number 217.,DELETE FROM student WHERE roll_no = 217
+Delete student with roll number 172.,DELETE FROM student WHERE roll_no = 172
+Delete student with roll number 421.,DELETE FROM student WHERE roll_no = 421
+Delete student with roll number 455.,DELETE FROM student WHERE roll_no = 455
+Delete student with roll number 345.,DELETE FROM student WHERE roll_no = 345
+Delete student with roll number 288.,DELETE FROM student WHERE roll_no = 288
+Delete student with roll number 430.,DELETE FROM student WHERE roll_no = 430
+Delete student with roll number 476.,DELETE FROM student WHERE roll_no = 476
+Delete student with roll number 247.,DELETE FROM student WHERE roll_no = 247
+Delete student with roll number 460.,DELETE FROM student WHERE roll_no = 460
+Delete student with roll number 396.,DELETE FROM student WHERE roll_no = 396
+Delete student with roll number 240.,DELETE FROM student WHERE roll_no = 240
+Delete student with roll number 98.,DELETE FROM student WHERE roll_no = 98
+Delete student with roll number 176.,DELETE FROM student WHERE roll_no = 176
+Delete student with roll number 411.,DELETE FROM student WHERE roll_no = 411
+Delete student with roll number 263.,DELETE FROM student WHERE roll_no = 263
+Delete student with roll number 372.,DELETE FROM student WHERE roll_no = 372
+Delete student with roll number 13.,DELETE FROM student WHERE roll_no = 13
+Delete student with roll number 56.,DELETE FROM student WHERE roll_no = 56
+Delete student with roll number 214.,DELETE FROM student WHERE roll_no = 214
+Delete student with roll number 293.,DELETE FROM student WHERE roll_no = 293
+Delete student with roll number 430.,DELETE FROM student WHERE roll_no = 430
+Delete student with roll number 466.,DELETE FROM student WHERE roll_no = 466
+Delete student with roll number 265.,DELETE FROM student WHERE roll_no = 265
+Delete student with roll number 325.,DELETE FROM student WHERE roll_no = 325
+Delete student with roll number 15.,DELETE FROM student WHERE roll_no = 15
+Delete student with roll number 18.,DELETE FROM student WHERE roll_no = 18
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+"Create table student with roll_no, name, age, marks and dept_id.","CREATE TABLE student (roll_no INT, name VARCHAR(100), age INT, marks INT, dept_id INT)"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+List students with their department names.,"SELECT student.name, department.dept_name FROM student JOIN department ON student.dept_id = department.id"
+Show students enrolled in courses.,"SELECT student.name, course.course_name FROM student JOIN enrollment ON student.roll_no = enrollment.student_id JOIN course ON enrollment.course_id = course.id"
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
+Show top 5 students by marks.,SELECT * FROM student ORDER BY marks DESC LIMIT 5
+List students ordered by age ascending.,SELECT * FROM student ORDER BY age ASC
