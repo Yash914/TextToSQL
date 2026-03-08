@@ -4,38 +4,40 @@ Project Overview
 This project implements a Hybrid Text-to-SQL system that converts natural language queries into SQL statements.
 
 The system combines machine learning techniques with rule-based SQL generation.
-Rule-based logic is used for deterministic operations like table creation and data manipulation, while the ML component is used to interpret natural language queries for data retrieval.
+Rule-based logic is used for deterministic database operations, while the ML component is used to interpret natural language queries for data retrieval.
 
-The system executes generated queries on a SQLite database.
+The generated SQL queries are executed using a SQLite database backend.
 
 System Architecture
-
 User Input
-↓
+   │
+   ▼
 Intent Detection
-↓
-If CRUD operation → Rule-based SQL generator
-If SELECT query → ML-based Text-to-SQL module
-↓
-SQL Execution using SQLite
-↓
-Query Result
-
+   │
+   ├── CRUD Operation → Rule-Based SQL Builder
+   │
+   └── SELECT Query → ML Text-to-SQL Model
+   │
+   ▼
+SQLite Query Execution
+   │
+   ▼
+Result Output
 Key Features
 
 Natural language to SQL conversion
 
 Hybrid architecture (ML + rule-based)
 
-Supports basic database operations
-
 Dynamic table creation
 
-Insert, update and delete support
+Insert, update, and delete operations
+
+Intelligent SELECT query interpretation
 
 SQLite database integration
 
-Modular and easy-to-extend code structure
+Modular and extendable code structure
 
 Technologies Used
 
@@ -43,7 +45,7 @@ Python
 
 SQLite
 
-PyTorch (for ML model – optional)
+PyTorch (optional ML component)
 
 Project Structure
 TextToSQL/
@@ -56,42 +58,46 @@ TextToSQL/
 ├── README.md
 └── .gitignore
 How to Run
-Clone the repository
+1. Clone the Repository
 git clone https://github.com/yourusername/TextToSQL.git
 cd TextToSQL
-Run the program
+2. Run the Program
 python main.py
 Example Commands
-
-Create table
-
+Create Table
 create table student with roll_no int, name text, cgpa real
-
-Insert data
-
+Insert Data
 insert student roll_no 1 name yash cgpa 9.2
-
-Show data
-
+Show Data
 show student
-
-Update data
-
+Update Data
 update student set cgpa 9.8 where roll_no 1
-
-Delete data
-
+Delete Data
 delete from student where roll_no 2
-Learning Outcomes
+Academic Relevance
 
-This project helped in understanding:
+This project demonstrates concepts related to:
 
-Natural Language Processing basics
+Natural Language Processing
 
-Text-to-SQL systems
+Text-to-SQL generation
 
 Hybrid AI system design
 
-Database query execution
+Schema-aware query generation
+
+Database management systems
 
 Backend system architecture
+
+Future Improvements
+
+Transformer-based Text-to-SQL model
+
+Schema-aware neural encoding
+
+Execution-based accuracy evaluation
+
+Web interface using Flask or React
+
+Multi-database support
