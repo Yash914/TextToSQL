@@ -1,159 +1,97 @@
-# 🚀 Hybrid Schema-Aware Text-to-SQL System
+Hybrid Schema-Aware Text-to-SQL System
+Project Overview
 
-## 📌 Project Overview
+This project implements a Hybrid Text-to-SQL system that converts natural language queries into SQL statements.
 
-This project implements a **Hybrid Text-to-SQL System** that converts
-natural language queries into executable SQL statements.
+The system combines machine learning techniques with rule-based SQL generation.
+Rule-based logic is used for deterministic operations like table creation and data manipulation, while the ML component is used to interpret natural language queries for data retrieval.
 
-The system intelligently combines:
+The system executes generated queries on a SQLite database.
 
--   🧠 Machine Learning (for intelligent SELECT query generation)
--   🛠 Rule-Based SQL Construction (for deterministic CRUD operations)
--   🗄 SQLite backend for real SQL execution
+System Architecture
 
-This hybrid architecture ensures both **stability** and
-**intelligence**.
+User Input
+↓
+Intent Detection
+↓
+If CRUD operation → Rule-based SQL generator
+If SELECT query → ML-based Text-to-SQL module
+↓
+SQL Execution using SQLite
+↓
+Query Result
 
-------------------------------------------------------------------------
+Key Features
 
-## 🏗 System Architecture
+Natural language to SQL conversion
 
-User Input\
-↓\
-Intent Detection\
-↓\
-If CRUD → Rule-Based SQL Builder\
-If SELECT → ML Text-to-SQL Model\
-↓\
-SQLite Execution Engine\
-↓\
-Result Output
+Hybrid architecture (ML + rule-based)
 
-------------------------------------------------------------------------
+Supports basic database operations
 
-## ✨ Key Features
+Dynamic table creation
 
--   Dynamic table creation
--   Schema-aware insert operations
--   Update and delete support
--   Intelligent SELECT query handling
--   SQLite database integration
--   Hybrid ML + Rule-based architecture
--   Persistent database storage
--   Modular clean code structure
+Insert, update and delete support
 
-------------------------------------------------------------------------
+SQLite database integration
 
-## 🧠 What Makes It Hybrid?
+Modular and easy-to-extend code structure
 
-### 🔹 Machine Learning Handles:
+Technologies Used
 
--   Complex SELECT queries
--   WHERE conditions
--   JOIN operations
--   Aggregations (AVG, COUNT, MAX)
--   Natural language interpretation
+Python
 
-### 🔹 Rule-Based Engine Handles:
+SQLite
 
--   CREATE TABLE
--   INSERT
--   UPDATE
--   DELETE
+PyTorch (for ML model – optional)
 
-This ensures stability for deterministic operations while allowing ML to
-handle semantic reasoning.
-
-------------------------------------------------------------------------
-
-## 🛠 Technologies Used
-
--   Python 3.10+
--   SQLite
--   PyTorch (for ML component -- optional/extendable)
-
-------------------------------------------------------------------------
-
-## 📂 Project Structure
-
-TextToSQL/ │ ├── main.py\
-├── schema_manager.py\
-├── intent_classifier.py\
-├── database.db\
-├── requirements.txt\
-├── README.md\
+Project Structure
+TextToSQL/
+│
+├── main.py
+├── schema_manager.py
+├── intent_classifier.py
+├── database.db
+├── requirements.txt
+├── README.md
 └── .gitignore
-
-------------------------------------------------------------------------
-
-## ▶️ How To Run
-
-### 1️⃣ Clone Repository
-
-git clone https://github.com/yourusername/TextToSQL.git\
+How to Run
+Clone the repository
+git clone https://github.com/yourusername/TextToSQL.git
 cd TextToSQL
-
-### 2️⃣ Run Application
-
+Run the program
 python main.py
+Example Commands
 
-------------------------------------------------------------------------
-
-## 🧪 Example Commands
-
-### Create Table
+Create table
 
 create table student with roll_no int, name text, cgpa real
 
-### Insert Data
+Insert data
 
 insert student roll_no 1 name yash cgpa 9.2
 
-### Show Data
+Show data
 
 show student
 
-### Update Data
+Update data
 
 update student set cgpa 9.8 where roll_no 1
 
-### Delete Data
+Delete data
 
 delete from student where roll_no 2
+Learning Outcomes
 
-------------------------------------------------------------------------
+This project helped in understanding:
 
-## 🎓 Academic Significance
+Natural Language Processing basics
 
-This project demonstrates:
+Text-to-SQL systems
 
--   Natural Language Processing (NLP)
--   Text-to-SQL generation
--   Hybrid AI system design
--   Schema-aware reasoning
--   Database management systems
--   Modular backend architecture
+Hybrid AI system design
 
-------------------------------------------------------------------------
+Database query execution
 
-## 📊 Future Enhancements
-
--   Transformer-based Text-to-SQL model
--   Schema-aware neural encoding
--   Execution-based accuracy evaluation
--   Web-based UI (Flask/React)
--   Multi-database support
--   Authentication system
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Yash Madane\
-Computer Engineering Student
-
-------------------------------------------------------------------------
-
-## 📜 License
-
-This project is created for academic and learning purposes.
+Backend system architecture
